@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+spacy
+torch
+transformers
+gradio
+scpacy
+tensorflow
+tf-keras
+gensim
+seaborn
+matplotlib
+nltk
+textblob
